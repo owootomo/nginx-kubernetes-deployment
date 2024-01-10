@@ -48,7 +48,7 @@ kubectl get pods
 kubectl get services
 ```
 ![image](https://github.com/owootomo/nginx-kubernetes-deployment/assets/144632027/d563a4a9-6003-4192-bf0b-d38ed3ff103c)
-![image](https://github.com/owootomo/nginx-kubernetes-deployment/assets/144632027/a1551b26-019c-4eb1-aa2f-bb43f236529e)
+![image](https://github.com/owootomo/nginx-kubernetes-deployment/assets/144632027/d4ad5c4c-ac1c-4248-b3aa-3a298df81364)
 ![image](https://github.com/owootomo/nginx-kubernetes-deployment/assets/144632027/2a02b214-8f38-4e0d-ad93-37eda939be4d)
 
 5. **Accessing the Nginx Service**
